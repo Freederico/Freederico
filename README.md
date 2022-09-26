@@ -1,5 +1,5 @@
 ## 😶‍🌫️  Olá Me chamo Frederico  
-.👩‍🏫  Atualmente estudando node.js </br>
+.👩‍🏫  Atualmente estudando javascript </br>
 .🙃  Já possuo conhecimento intermediário em HTML , CSS  e nível básico em javascript 
 
 
