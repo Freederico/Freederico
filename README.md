@@ -1,4 +1,4 @@
-## 😶‍🌫️  Olá Me chamo Frederico  
+## 😶‍🌫️  Olá eu sou Frederico  
 .👩‍🏫  Atualmente estudando javascript </br>
 .🙃  Já possuo conhecimento intermediário em HTML , CSS  e nível básico em javascript 
 
