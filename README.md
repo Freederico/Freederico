@@ -1,6 +1,6 @@
 ## 😶‍🌫️  Olá eu sou Frederico  
 .👩‍🏫  Atualmente estudando node.js </br>
-.🙃  Já possuo conhecimento intermediário em HTML , CSS  e javascript
+.🙃  Já possuo conhecimento intermediário em HTML , CSS  e Javascript
 
 
 <div align="center">
